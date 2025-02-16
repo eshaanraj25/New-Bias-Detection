@@ -4,7 +4,7 @@
 
 Team:
 1. Rajath Reghunath
-2. Adith Santosh Thaniserikaran
+2. Eshaan Raj Sharma
 3. Kuan-Yu Chen
 
 This repo contains two notebooks:
